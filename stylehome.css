@@ -105,7 +105,7 @@ body {
 
     main p {
         text-align: center;
-        font-family: var(--fonte-android);
+        font-family: var(--fonte-padrao);
         padding-bottom: 25px;
         font-size: 20px;
         font-weight: bold;
